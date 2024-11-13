@@ -1,0 +1,51 @@
+
+.page-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .page-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .page-content {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .page-content p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .rating input {
+    width: 50px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .page-footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .page-footer button {
+    background-color: #EF9B0F;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .page-footer button a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .page-footer button:hover {
+    background-color: #EF9B0F;
+  }
+  
